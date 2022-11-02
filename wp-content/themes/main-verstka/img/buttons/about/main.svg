@@ -1,0 +1,29 @@
+<svg width="200" height="62" viewBox="0 0 200 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ii_115_1596)">
+<path d="M190.211 0.423677C72.8343 -0.141246 127.165 -0.141216 9.78918 0.423708C5.90685 0.442812 2.20042 3.43185 1.68192 7.09806C-0.560638 23.0326 -0.560638 38.9671 1.68192 54.9023C2.20042 58.5685 5.90685 61.5572 9.78918 61.5763C127.165 62.1413 72.8343 62.1412 190.211 61.5763C194.093 61.5572 197.799 58.5685 198.317 54.9023C200.561 38.9671 200.561 23.0326 198.317 7.09803C197.799 3.43182 194.093 0.442781 190.211 0.423677Z" fill="url(#paint0_linear_115_1596)"/>
+</g>
+<defs>
+<filter id="filter0_ii_115_1596" x="0" y="-1" width="207" height="70" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="7" dy="7"/>
+<feGaussianBlur stdDeviation="12.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_115_1596"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_115_1596" result="effect2_innerShadow_115_1596"/>
+</filter>
+<linearGradient id="paint0_linear_115_1596" x1="200" y1="31" x2="-0.0132746" y2="28.0142" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD194"/>
+<stop offset="0.232292" stop-color="#FEC87F"/>
+<stop offset="0.691084" stop-color="#FFE0B5"/>
+<stop offset="1" stop-color="#FFBC62"/>
+</linearGradient>
+</defs>
+</svg>

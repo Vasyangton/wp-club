@@ -1,0 +1,11 @@
+{
+    "img_1": "<img src='img/reviews/1.png' class='reviews__item'>",
+    "img_2": "<img src='img/reviews/2.png' class='reviews__item'>",
+    "img_3": "<img src='img/reviews/3.png' class='reviews__item'>",
+    "img_4": "<img src='img/reviews/4.png' class='reviews__item'>",
+    "img_5": "<img class='reviews__item' src='img/reviews/5.png'>",
+    "img_6": "<img class='reviews__item' src='img/reviews/6.png'>",
+    "img_7": "<img class='reviews__item' src='img/reviews/7.png'>",
+    "img_8": "<img class='reviews__item' src='img/reviews/8.png'>",
+    "img_9": "<img class='reviews__item' src='img/reviews/9.png'>"
+}
